@@ -1,0 +1,30 @@
+
+#anchor{
+    
+    -fx-background-color: #EEEEEE;
+
+}
+#botao {
+  -fx-cursor: hand;
+  -fx-background-color:  #EB455F;
+  -fx-color: #ffffff;
+  -fx-border-radius: 25px;
+
+
+}
+#txtaltura, #txtpeso{
+  
+  
+    -fx-border: 1px;
+  -fx-border-color: #EB455F;
+  -fx-background-color: -fx-text-box-border, -fx-control-inner-background;
+  
+    
+}
+
+#txtimc1, #txtimc{
+    -fx-text-fill: black;
+    -fx-border: 1px;
+     -fx-border-radius:25px;
+}
+
